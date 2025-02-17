@@ -33,4 +33,37 @@ Driply is an Android app that allows users to **upload fashion posts, earn point
 - **Push Notifications:** Firebase Cloud Messaging (FCM)
 - **Image Loading:** Glide
 
+
 ---
+
+## 🏆 **Key Features**
+✅ **User Authentication (Firebase)**
+- Login via **Email/Password**.
+- Secure **session management**.
+
+✅ **Upload & Share Fashion Posts**
+- Users can **upload images with descriptions**.
+- **Real-time sync** with Firebase Database.
+
+✅ **Earn & Redeem Rewards**
+- Users earn **Drips (points)** for uploading posts.
+- Redeem points for **cash & exclusive perks**.
+
+✅ **Push Notifications**
+- **Real-time notifications** when users interact with posts.
+- Powered by **Firebase Cloud Messaging (FCM)**.
+
+✅ **Leaderboard**
+- Shows **top users** based on earned points.
+
+✅ **Swipe Gesture Navigation**
+- **Smooth UI** with left/right swipe detection.
+
+---
+
+👨‍💻 About the Developer
+Hi, I'm Yahya Zaidi, an Android Developer passionate about clean code, UI/UX, and scalable architectures.
+Let's connect! 🚀
+
+📌 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yahya-zaidi-594441148/)
+📌 Email: yahyazaidi02@gmail.com
