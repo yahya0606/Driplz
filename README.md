@@ -65,5 +65,5 @@ Driply is an Android app that allows users to **upload fashion posts, earn point
 Hi, I'm Yahya Zaidi, an Android Developer passionate about clean code, UI/UX, and scalable architectures.
 Let's connect! 🚀
 
-📌 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yahya-zaidi-594441148/)
+📌 LinkedIn: [linkedin.com](https://www.linkedin.com/in/yahya-zaidi-594441148/)
 📌 Email: yahyazaidi02@gmail.com
