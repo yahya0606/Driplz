@@ -18,9 +18,9 @@ Driply is an Android app that allows users to **upload fashion posts, earn point
 ---
 
 ## 📸 **Screenshots**
-| Home Screen  | Upload Post  | Notifications | Profile |
+| Home Screen  | Upload Post  | Leaderboard | Settings |
 |---|---|---|---|
-| ![Home](screenshots/Deck.png) | ![Upload](screenshots/Upload.png) | ![Leaderboard](screenshots/leaderboard.png) | ![Settings](screenshots/Settings.png) |
+| ![Home](screenshots/deck.png) | ![Upload](screenshots/upload.png) | ![Leaderboard](screenshots/leaderboard.png) | ![Settings](screenshots/settings.png) |
 
 ---
 
