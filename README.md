@@ -1,6 +1,6 @@
 # 👕 Driply - Fashion & Rewards App
 
-![Driply Banner](screenshots/banner.png)  
+![Driply Banner](screenshots/splash.png)  
 
 Driply is an Android app that allows users to **upload fashion posts, earn points, redeem rewards**, and stay updated with notifications. Built using **Java, Firebase, Retrofit, and Material UI**, Driply provides an engaging social experience for fashion enthusiasts.
 
@@ -20,7 +20,7 @@ Driply is an Android app that allows users to **upload fashion posts, earn point
 ## 📸 **Screenshots**
 | Home Screen  | Upload Post  | Notifications | Profile |
 |---|---|---|---|
-| ![Home](screenshots/home.png) | ![Upload](screenshots/upload.png) | ![Notifications](screenshots/notifications.png) | ![Profile](screenshots/profile.png) |
+| ![Home](screenshots/Deck.png) | ![Upload](screenshots/Upload.png) | ![Leaderboard](screenshots/leaderboard.png) | ![Settings](screenshots/Settings.png) |
 
 ---
 
